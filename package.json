@@ -1,0 +1,23 @@
+{
+  "name": "voice-cab-booking",
+  "version": "1.0.0",
+  "description": "Book a cab with a **simple phone call** — no app, no typing! This project enables users to call a number, speak their destination, and automatically trigger a cab booking using **Twilio**, **OpenAI Whisper**, and **Node.js**.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node test.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "form-data": "^4.0.2",
+    "mongoose": "^8.13.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
