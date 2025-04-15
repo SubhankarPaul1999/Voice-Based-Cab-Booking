@@ -1,4 +1,4 @@
-# 🚖 Voice-Based Cab Booking (Namma Yatri Hackathon Submission)
+# 🚖 Voice-Based Cab Booking Service
 
 Book a cab with a **simple phone call** — no app, no typing! This project enables users to call a number, speak their destination, and automatically trigger a cab booking using **Twilio**, **OpenAI Whisper**, and **Node.js**.
 
